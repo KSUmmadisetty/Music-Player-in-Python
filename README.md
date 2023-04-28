@@ -3,5 +3,9 @@
 
 
 Click ADD button to insert the mp3 file .
+
+
 Click PLAP button to Play the inserted file.
+
+
 For PAUSE and PLAY of the current song use PAUSE button
